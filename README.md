@@ -24,28 +24,28 @@ Predicts Falcon 9 first-stage landing success using classification models. Inclu
 ## 📊 Business Analytics with Excel
 **Duration:** Jun 2023 – Jul 2023  
 Optimizes project selection and manager assignment using Solver, goal-seek, and data tables in Excel.  
-🔗 [View Repository](https://github.com/ShubhamKanhekar/Project-BusinessAnalytics-with-Excel)
+🔗 [View Repository](https://github.com/ShubhamKanhekar/Project--BusinessAnalytics-with-Excel)
 
 ---
 
 ## 📉 EDA in Python (Loan Default Risk)
 **Duration:** Dec 2024  
 Explores loan applicant data to identify risk factors and recommend approval strategies.  
-🔗 [View Repository](https://github.com/ShubhamKanhekar/EDA-in-Python-IITB-upGrad)
+🔗 [View Repository](https://github.com/ShubhamKanhekar/Exploratory_Data_Analysis_in_Python_IITB-upGrad)
 
 ---
 
 ## 🎬 RSVP Movies Case Study (EDA with SQL)
 **Duration:** Feb 2025  
 Analyzes movie data using MySQL to identify success factors for film production.  
-🔗 [View Repository](https://github.com/ShubhamKanhekar/RSVP-Movies-EDA-SQL)
+🔗 [View Repository](https://github.com/ShubhamKanhekar/RSVP_Movies_Case_Study_EDA)
 
 ---
 
 ## 🧠 Predicting Employee Retention
 **Duration:** Apr 2025  
 Builds a logistic regression model to predict employee attrition using RFE and statistical validation.  
-🔗 [View Repository](https://github.com/ShubhamKanhekar/Predicting-Employee-Retention)
+🔗 [View Repository](https://github.com/ShubhamKanhekar/Predicting_Employee_Retention_Shashank_DoddiShirisha_ShubhamKanhekar)
 
 ---
 
