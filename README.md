@@ -1,5 +1,5 @@
 # 📁 Portfolio Projects by Shubham Kanhekar
-I am a Mechanical Engineering graduate from IIT BHU with hands-on experience in data analytics projects involving Python, SQL, and Excel. Skilled in exploratory data analysis, dashboarding, and business optimization. Certified by IBM and IIIT Bangalore, with a growing portfolio of real-world projects known for analytical thinking, structured problem-solving, and a commitment to continuous learning.
+I am a Mechanical Engineering graduate from IIT BHU with hands-on experience in data analytics projects involving Python, SQL, and Excel. Skilled in exploratory data analysis, dashboarding, and business optimization. Certified by IBM and IIIT Bangalore, with a growing portfolio of real-world projects known for analytical thinking, structured problem-solving, and a commitment to continuous learning.</br>
 This repository is a curated index of select GitHub projects. It includes brief descriptions and direct links to repositories showcasing my work in data science, machine learning, business analytics, and optimization — making it easy to explore without browsing my full profile.
 ---
 
