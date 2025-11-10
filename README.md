@@ -1,5 +1,5 @@
 # 📁 Portfolio Projects by Shubham Kanhekar
-
+I am a Mechanical Engineering graduate from IIT BHU with hands-on experience in data analytics projects involving Python, SQL, and Excel. Skilled in exploratory data analysis, dashboarding, and business optimization. Certified by IBM and IIIT Bangalore, with a growing portfolio of real-world projects known for analytical thinking, structured problem-solving, and a commitment to continuous learning.
 This repository is a curated index of select GitHub projects. It includes brief descriptions and direct links to repositories showcasing my work in data science, machine learning, business analytics, and optimization — making it easy to explore without browsing my full profile.
 ---
 
@@ -15,7 +15,7 @@ Emulates PyTorch's autograd functionality for scalar values. Includes a custom n
 
 ## 🚀 SpaceX Launch Prediction (Applied Data Science Capstone)
 **Duration:** Sept 2023 – Oct 2023  
-Predicts Falcon 9 first-stage landing success using classification models. Includes API scraping, SQL, and interactive visualizations.  
+Predicts Falcon 9 first-stage landing success using classification models. Includes web-scraping, SQL, and interactive visualizations.  
 -	Project involved SpaceX dataset to develop a Machine Learning model predicting successful landing of Falcon 9 rocket's first stage, crucial for achieving a cost reduction to $62 million per launch
 -	Accomplished Data collection through API and WebScraping, Data Wrangling with pandas, Exploratory Data Analysis with SQL and Data Visualization (matplotlib, seaborn) and Interactive Visual Analysis (Folium, plotly, dash)
 -	Tested four types of Classification models viz. Logistic Regression, SVM, Decision Tree and k-Nearest Neighbour using scikit-learn. The Decision Tree model works best for the dataset with accuracy of 87.3214
